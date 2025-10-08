@@ -84,5 +84,3 @@ The solution integrates **PySpark** for distributed data processing and **SPSS M
 * Integrate economic indicators or transaction behaviour for richer feature space.
 
 
-
-Would you like me to make a **simplified short version** (about 150 words) for your GitHub repository *description box* or pinned-repo summary as well?
